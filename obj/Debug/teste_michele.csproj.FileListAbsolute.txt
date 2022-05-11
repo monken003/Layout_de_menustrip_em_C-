@@ -1,0 +1,13 @@
+C:\Users\22001832\AppData\Local\Microsoft\VisualStudio\17.0_b745d68f\Settings\Projects\teste_michele\teste_michele\bin\Debug\teste_michele.exe.config
+C:\Users\22001832\AppData\Local\Microsoft\VisualStudio\17.0_b745d68f\Settings\Projects\teste_michele\teste_michele\bin\Debug\teste_michele.exe
+C:\Users\22001832\AppData\Local\Microsoft\VisualStudio\17.0_b745d68f\Settings\Projects\teste_michele\teste_michele\bin\Debug\teste_michele.pdb
+C:\Users\22001832\AppData\Local\Microsoft\VisualStudio\17.0_b745d68f\Settings\Projects\teste_michele\teste_michele\obj\Debug\teste_michele.csproj.AssemblyReference.cache
+C:\Users\22001832\AppData\Local\Microsoft\VisualStudio\17.0_b745d68f\Settings\Projects\teste_michele\teste_michele\obj\Debug\teste_michele.csproj.SuggestedBindingRedirects.cache
+C:\Users\22001832\AppData\Local\Microsoft\VisualStudio\17.0_b745d68f\Settings\Projects\teste_michele\teste_michele\obj\Debug\teste_michele.FrmAmarelo.resources
+C:\Users\22001832\AppData\Local\Microsoft\VisualStudio\17.0_b745d68f\Settings\Projects\teste_michele\teste_michele\obj\Debug\teste_michele.FrmAzul.resources
+C:\Users\22001832\AppData\Local\Microsoft\VisualStudio\17.0_b745d68f\Settings\Projects\teste_michele\teste_michele\obj\Debug\teste_michele.FrmVermelho.resources
+C:\Users\22001832\AppData\Local\Microsoft\VisualStudio\17.0_b745d68f\Settings\Projects\teste_michele\teste_michele\obj\Debug\teste_michele.Properties.Resources.resources
+C:\Users\22001832\AppData\Local\Microsoft\VisualStudio\17.0_b745d68f\Settings\Projects\teste_michele\teste_michele\obj\Debug\teste_michele.csproj.GenerateResource.cache
+C:\Users\22001832\AppData\Local\Microsoft\VisualStudio\17.0_b745d68f\Settings\Projects\teste_michele\teste_michele\obj\Debug\teste_michele.csproj.CoreCompileInputs.cache
+C:\Users\22001832\AppData\Local\Microsoft\VisualStudio\17.0_b745d68f\Settings\Projects\teste_michele\teste_michele\obj\Debug\teste_michele.exe
+C:\Users\22001832\AppData\Local\Microsoft\VisualStudio\17.0_b745d68f\Settings\Projects\teste_michele\teste_michele\obj\Debug\teste_michele.pdb
